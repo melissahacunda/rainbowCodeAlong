@@ -1,0 +1,61 @@
+@newfile "spectrum";
+/* CSS Document */
+
+body{
+	background-color: #a8a1a1ab;
+	padding: 50px 100px 50px 100px;
+}
+
+p{
+	font-size: 35px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.rainbowOne{
+	background-color: purple;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
+
+.rainbowTwo{
+	background-color: blue;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
+
+.rainbowThree{
+	background-color: white;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
+
+.rainbowFour{
+	background-color: green;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
+
+.rainbowFive{
+	background-color: yellow;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
+
+.rainbowSix{
+	background-color: orangered;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
+
+.rainbowSeven{
+	background-color: red;
+	height: 200px;
+	width: 100%;
+	padding-top: 50px;
+}
